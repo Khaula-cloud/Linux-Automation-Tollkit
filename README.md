@@ -80,6 +80,7 @@ Most Linux servers fail for predictable reasons:
 
 # 🏗️ Architecture
 
+<img width="3200" height="2000" alt="image" src="https://github.com/user-attachments/assets/5bb451e2-f139-405d-9b31-876d63610119" />
 
 
 # ✨ Features
